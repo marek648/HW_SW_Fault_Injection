@@ -1,0 +1,205 @@
+SUCCESS=18
+FAULT=3
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201728
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+resp:Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00202425
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 3
+resp:send: 10 0.8590 90 0.6700 -30 0.8590
+resp: resp:MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201813
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 1
+resp:Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201733
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 6
+resp:Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201728
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 4
+resp:Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00202365
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 8
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201731
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00199851
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+resp:Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00200342
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 9
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00203776
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00202261
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201729
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201736
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+resp:Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00203799
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 9
+resp:send: 10 0.8590 90 0.6700 -30 0.8590
+resp: resp:MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00204299
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 1
+Armed!
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00204456
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
+MUL
+
+------   [MUL] CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00201759
+ > Operand 1   	 : 0000000ae84185e8
+ > Operand 2   	 : 0000000070d94ea9
+ > Correct     	 : cedee4174bb61628
+ > Result      	 : cedee4174bb61628
+ > Result      	 : cedee4173bb61628
+ > xor result  	 : 0000000070000000
+Fault at retry: 0
