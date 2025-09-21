@@ -1,0 +1,590 @@
+SUCCESS=49
+FAULT=2
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000127
+ > Operand 1   	 : 000000004051d263
+ > Operand 2   	 : 00000000d4ef560c
+ > Correct     	 : 357fe43be6f01ea4
+ > Result      	 : 357fe43bd6f01ea4
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -244
+ > temperature 	 : 7V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000597
+ > Operand 1   	 : 00000000adf887bd
+ > Operand 2   	 : 000000005e8d04c0
+ > Correct     	 : 404116f4859dc1c0
+ > Result      	 : 404116f4759dc1c0
+ > xor result  	 : 00000000f0000000
+ > undervoltage	 : -245
+ > temperature 	 : *V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000269
+ > Operand 1   	 : 00000000019e7df3
+ > Operand 2   	 : 00000000fdec7129
+ > Correct     	 : 019b214c7afe6eeb
+ > Result      	 : 019b214c6afe6eeb
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : ¡U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000590
+ > Operand 1   	 : 00000000c311ee2d
+ > Operand 2   	 : 000000003ad9621b
+ > Correct     	 : 2cd7b4ea863658bf
+ > Result      	 : 2cd7b4ea763658bf
+ > xor result  	 : 00000000f0000000
+ > undervoltage	 : -243
+ > temperature 	 : üU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000582
+ > Operand 1   	 : 00000000a2e2bd06
+ > Operand 2   	 : 0000000038ed85fd
+ > Correct     	 : 2438ba8314d6ecee
+ > Result      	 : 2438ba8304d6ecee
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : ¸U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000095
+ > Operand 1   	 : 00000000dedfaa2d
+ > Operand 2   	 : 00000000560e022d
+ > Correct     	 : 4aeb554b591b43e9
+ > Result      	 : 4aeb554b491b43e9
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : gU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000199
+ > Operand 1   	 : 0000000087d9e965
+ > Operand 2   	 : 0000000006d40627
+ > Correct     	 : 039f9f31734eec63
+ > Result      	 : 039f9f31634eec63
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000076
+ > Operand 1   	 : 000000004fc5d648
+ > Operand 2   	 : 00000000a5d2af4e
+ > Correct     	 : 33ac2a06bad281f0
+ > Result      	 : 33ac2a06aad281f0
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : KV
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000960
+ > Operand 1   	 : 0000000023858f32
+ > Operand 2   	 : 00000000e2ec066e
+ > Correct     	 : 1f7ca86e8ad6b37c
+ > Result      	 : 1f7ca86e7ad6b37c
+ > xor result  	 : 00000000f0000000
+ > undervoltage	 : -244
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000001
+ > Operand 1   	 : 000000001564dd0a
+ > Operand 2   	 : 00000000d1dd76bd
+ > Correct     	 : 1189da7444fbcc62
+ > Result      	 : 1189da7434fbcc62
+ > xor result  	 : 0000000070000000
+ > undervoltage	 : -245
+ > temperature 	 : OV
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000139
+ > Operand 1   	 : 000000008bc5b965
+ > Operand 2   	 : 00000000363b1210
+ > Correct     	 : 1d9bf589ababb050
+ > Result      	 : 1d9bf5899babb050
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -243
+ > temperature 	 : ÞU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000119
+ > Operand 1   	 : 0000000074e19539
+ > Operand 2   	 : 00000000b2f63e28
+ > Correct     	 : 51b546e7ec291ee8
+ > Result      	 : 51b546e7dc291ee8
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : 	V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000067
+ > Operand 1   	 : 00000000e801cc45
+ > Operand 2   	 : 000000001c766a86
+ > Correct     	 : 19cb83b5e3537e1e
+ > Result      	 : 19cb83b5d3537e1e
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -243
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000139
+ > Operand 1   	 : 000000007cb1b0fc
+ > Operand 2   	 : 00000000ea5fda2f
+ > Correct     	 : 72291bfd3ada1644
+ > Result      	 : 72291bfd2ada1644
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -241
+ > temperature 	 : SV
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000234
+ > Operand 1   	 : 00000000adc1c349
+ > Operand 2   	 : 000000006ed4a77c
+ > Correct     	 : 4b39980ca6b3365c
+ > Result      	 : 4b39980c96b3365c
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -244
+ > temperature 	 : ]U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000229
+ > Operand 1   	 : 00000000a3b5ac93
+ > Operand 2   	 : 00000000479e4e46
+ > Correct     	 : 2dcc9f0b65fbfa32
+ > Result      	 : 2dcc9f0b55fbfa32
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : ÅU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000127
+ > Operand 1   	 : 00000000b101adce
+ > Operand 2   	 : 000000007edf8788
+ > Correct     	 : 57b961b7b5fdf770
+ > Result      	 : 57b961b7a5fdf770
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000187
+ > Operand 1   	 : 000000000eb36589
+ > Operand 2   	 : 000000005650a511
+ > Correct     	 : 04f4e5a65b2b0b19
+ > Result      	 : 04f4e5a64b2b0b19
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000013
+ > Operand 1   	 : 0000000030e18b40
+ > Operand 2   	 : 000000005daadeb1
+ > Correct     	 : 11e28fe21b32c740
+ > Result      	 : 11e28fe20b32c740
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -244
+ > temperature 	 : ¢U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000455
+ > Operand 1   	 : 00000000e0feaac9
+ > Operand 2   	 : 00000000b47d120a
+ > Correct     	 : 9ea0fc496a19cdda
+ > Result      	 : 9ea0fc495a19cdda
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -244
+ > temperature 	 : ¬U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000286
+ > Operand 1   	 : 000000005d4181da
+ > Operand 2   	 : 00000000ea1e4e80
+ > Correct     	 : 5548eaf711dd5900
+ > Result      	 : 5548eaf701dd5900
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -242
+ > temperature 	 : ÁU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000620
+ > Operand 1   	 : 000000007401bb30
+ > Operand 2   	 : 00000000f4615334
+ > Correct     	 : 6ebdc0c5cd3a95c0
+ > Result      	 : 6ebdc0c5c53a95c0
+ > xor result  	 : 0000000008000000
+ > undervoltage	 : -245
+ > temperature 	 : ƒU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000191
+ > Operand 1   	 : 0000000025b1d9ec
+ > Operand 2   	 : 000000001439ca28
+ > Correct     	 : 02fa67642f4a44e0
+ > Result      	 : 02fa6764274a44e0
+ > xor result  	 : 0000000008000000
+ > undervoltage	 : -245
+ > temperature 	 : HV
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000943
+ > Operand 1   	 : 00000000b3c5a1f9
+ > Operand 2   	 : 00000000aac7aee2
+ > Correct     	 : 77ed76ff4b1f3bd2
+ > Result      	 : 77ed76ff3b1f3bd2
+ > xor result  	 : 0000000070000000
+ > undervoltage	 : -245
+ > temperature 	 : ïU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000011
+ > Operand 1   	 : 00000000ec65df3c
+ > Operand 2   	 : 000000000a14c220
+ > Correct     	 : 094f25f088975f80
+ > Result      	 : 094f25f078975f80
+ > xor result  	 : 00000000f0000000
+ > undervoltage	 : -245
+ > temperature 	 : žU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000051
+ > Operand 1   	 : 00000000d075a675
+ > Operand 2   	 : 000000006cc99778
+ > Correct     	 : 5895c9f02a3209d8
+ > Result      	 : 5895c9f01a3209d8
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : ;V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000128
+ > Operand 1   	 : 000000001801da92
+ > Operand 2   	 : 000000002612fa05
+ > Correct     	 : 03920e0551bfd8da
+ > Result      	 : 03920e0541bfd8da
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -244
+ > temperature 	 : pU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000218
+ > Operand 1   	 : 00000000bfe1cf17
+ > Operand 2   	 : 00000000ff33462e
+ > Correct     	 : bf485bde63c88022
+ > Result      	 : bf485bde53c88022
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -243
+ > temperature 	 : U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000002
+ > Operand 1   	 : 0000000096a99e74
+ > Operand 2   	 : 000000007ac4aef6
+ > Correct     	 : 48409658a9811b78
+ > Result      	 : 4840965899811b78
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : FV
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000988
+ > Operand 1   	 : 0000000001cc1493
+ > Operand 2   	 : 00000000b107fead
+ > Correct     	 : 013e2897e658c157
+ > Result      	 : 013e2897d658c157
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : ¥U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000328
+ > Operand 1   	 : 0000000086ab9679
+ > Operand 2   	 : 00000000d6c66ecd
+ > Correct     	 : 70fbd2c919a57ce5
+ > Result      	 : 70fbd2c909a57ce5
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -243
+ > temperature 	 : +V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000007
+ > Operand 1   	 : 000000000d25e4b7
+ > Operand 2   	 : 000000006871f21f
+ > Correct     	 : 055d3f13b692b029
+ > Result      	 : 055d3f13a692b029
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : ÀU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000068
+ > Operand 1   	 : 00000000931d9e4e
+ > Operand 2   	 : 0000000077c6cbc1
+ > Correct     	 : 44d50296183032ce
+ > Result      	 : 44d50296083032ce
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : )V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000187
+ > Operand 1   	 : 00000000f401f459
+ > Operand 2   	 : 00000000e305a296
+ > Correct     	 : d8631aace6827e26
+ > Result      	 : d8631aacd6827e26
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : ÝU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000714
+ > Operand 1   	 : 00000000e81698ca
+ > Operand 2   	 : 0000000034099b1a
+ > Correct     	 : 2f2d4c71a7e7d284
+ > Result      	 : 2f2d4c7197e7d284
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : “U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000944
+ > Operand 1   	 : 000000000150bb7e
+ > Operand 2   	 : 00000000aae4fca3
+ > Correct     	 : 00e0c9b4f72f693a
+ > Result      	 : 00e0c9b4e72f693a
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -241
+ > temperature 	 : üU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000019
+ > Operand 1   	 : 0000000000e9bd65
+ > Operand 2   	 : 000000005ebcf6f9
+ > Correct     	 : 00568013ab84453d
+ > Result      	 : 005680139b84453d
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : 
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000001
+ > Operand 1   	 : 0000000044c5edbc
+ > Operand 2   	 : 0000000015c35258
+ > Correct     	 : 05d8b5638c63f0a0
+ > Result      	 : 05d8b5637c63f0a0
+ > xor result  	 : 00000000f0000000
+ > undervoltage	 : -245
+ > temperature 	 : "V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000848
+ > Operand 1   	 : 000000002ff1ef88
+ > Operand 2   	 : 00000000ca344646
+ > Correct     	 : 25deb14f3b46af30
+ > Result      	 : 25deb14f2b46af30
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -243
+ > temperature 	 : U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000140
+ > Operand 1   	 : 0000000047f5cab8
+ > Operand 2   	 : 000000001e424279
+ > Correct     	 : 08816dcf34e040f8
+ > Result      	 : 08816dcf24e040f8
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -244
+ > temperature 	 : ÝU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000004
+ > Operand 1   	 : 0000000063a5e3b1
+ > Operand 2   	 : 000000003d5e967a
+ > Correct     	 : 17e358bd7876385a
+ > Result      	 : 17e358bd6876385a
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000188
+ > Operand 1   	 : 00000000a315f185
+ > Operand 2   	 : 00000000fc7f3226
+ > Correct     	 : a0daa1943b68d3be
+ > Result      	 : a0daa1942b68d3be
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -243
+ > temperature 	 : 'V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000009
+ > Operand 1   	 : 0000000084e9a3fd
+ > Operand 2   	 : 00000000171f13f7
+ > Correct     	 : 0c0120642b3c001b
+ > Result      	 : 0c0120641b3c001b
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : TV
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000188
+ > Operand 1   	 : 0000000000b5fabd
+ > Operand 2   	 : 00000000cd36df38
+ > Correct     	 : 0091e0caea177c58
+ > Result      	 : 0091e0cada177c58
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -245
+ > temperature 	 : uU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000218
+ > Operand 1   	 : 000000007b01fa40
+ > Operand 2   	 : 000000009fa892e1
+ > Correct     	 : 4cb73a4d37757240
+ > Result      	 : 4cb73a4d27757240
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -241
+ > temperature 	 : ÀU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000467
+ > Operand 1   	 : 00000000cd8596d6
+ > Operand 2   	 : 00000000c3d34ea0
+ > Correct     	 : 9d36661f7bd579c0
+ > Result      	 : 9d36661f6bd579c0
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -245
+ > temperature 	 : ‰U
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000067
+ > Operand 1   	 : 00000000a085fd6a
+ > Operand 2   	 : 00000000683c123a
+ > Correct     	 : 415c19c83f04de04
+ > Result      	 : 415c19c83704de04
+ > xor result  	 : 0000000008000000
+ > undervoltage	 : -245
+ > temperature 	 : -V
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000229
+ > Operand 1   	 : 000000007045facd
+ > Operand 2   	 : 000000003f8af267
+ > Correct     	 : 1bde28c0f8bfb27b
+ > Result      	 : 1bde28c0e8bfb27b
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -244
+ > temperature 	 : ÚU
+ > Frequency   	 : 1600MHz
+Done.
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00000373
+ > Operand 1   	 : 000000005041c2a5
+ > Operand 2   	 : 0000000035143eab
+ > Correct     	 : 10a3f614e6f4fa37
+ > Result      	 : 10a3f614d6f4fa37
+ > xor result  	 : 0000000030000000
+ > undervoltage	 : -244
+ > temperature 	 : V
+ > Frequency   	 : 1600MHz
+Done.

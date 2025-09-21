@@ -1,0 +1,14 @@
+SUCCESS=1
+FAULT=50
+
+------   CALCULATION ERROR DETECTED   ------
+ > Iterations  	 : 00814381
+ > Operand 1   	 : 000000006931966f
+ > Operand 2   	 : 0000000065b8aa6f
+ > Correct     	 : 29cc7206752df021
+ > Result      	 : 29cc7206652df021
+ > xor result  	 : 0000000010000000
+ > undervoltage	 : -304
+ > temperature 	 : )V
+ > Frequency   	 : 1100MHz
+Done.
