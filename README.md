@@ -1,6 +1,6 @@
 # Voltage Fault Injection on CPU/MCU  
 *Reproducing VoltPillager and TrustZone-M(eh) attacks with custom hardware setups*  
-![Voltpillager Attack]([http://url/to/img.png](https://github.com/marek648/HW_SW_Fault_Injection/blob/main/images/Voltpillager_attack.png))
+![Voltpillager Attack](https://github.com/marek648/HW_SW_Fault_Injection/blob/main/images/Voltpillager_attack.png)
 
 ## 📖 Overview  
 This project explores **voltage fault injection attacks** on Intel CPUs with SGX and ARM microcontrollers with TrustZone-M.  
