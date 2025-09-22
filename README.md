@@ -30,7 +30,7 @@ The work is based on my Master's thesis and demonstrates how carefully timed vol
 - `TrustZone_meh/` — hardware schematics, test firmware and data for the **TrustZone-M(eh)** experiments on ARM MCUs.  
 - `auto_reset_PC_RPI/` — Raspberry Pi scripts and wiring diagrams to automatically reset/reboot target machines between glitch attempts.  
 - `test_scipt/` — test harnesses and orchestration scripts used to run repeated experiments and capture faulty outputs.  
-- `thesis/` — PDF and source files of the Master’s thesis and supplementary datasets.  
+- `thesis/` — PDF file of the Master’s thesis.  
 
 > See each folder for README-style details and run instructions specific to that experiment.
 
@@ -45,7 +45,7 @@ This repository documents experiments from my Master’s thesis. The experiments
 - The thesis explains ethical and legal constraints and why certain protections or mitigations are required.  
 
 **If you are a researcher or qualified practitioner**
-- Start by reading `thesis/thesis.pdf` in full. Then read the README and wiring/notes in the specific experiment folder you intend to study (`VoltPillager/`, `PlunderVolt/`, `TrustZone_meh/`).  
+- Start by reading `thesis/thesis_EN.pdf` in full. Then read the README and wiring/notes in the specific experiment folder you intend to study (`VoltPillager/`, `PlunderVolt/`, `TrustZone_meh/`).  
 - The per-folder READMEs contain supplementary experiment logs, data formats, and references. They are the only appropriate next step after understanding the thesis.  
 
 **If you are not a trained researcher or do not have explicit permission**
@@ -71,4 +71,4 @@ For detailed experimental logs and sample outputs, refer to the `data` and `anal
 ## References
 - VoltPillager: Software-based fault injection attacks against Intel SGX  
 - TrustZone-M(eh): Breaking ARM TrustZone-M with voltage glitching  
-- My Master’s thesis: `thesis/thesis.pdf`
+- My Master’s thesis: `thesis/thesis_EN.pdf`
